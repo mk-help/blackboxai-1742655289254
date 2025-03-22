@@ -27262,3 +27262,115 @@ Stack trace:
 #2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
 #3 {main}
   thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:52 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:52 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:53 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:53 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:54 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:54 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:55 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:55 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:56 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:56 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:56 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:57 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:57 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
+[22-Mar-2025 11:58:58 America/Sao_Paulo] Database Connection Error: could not find driver
+[22-Mar-2025 11:58:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Exception: Erro ao conectar ao banco de dados: could not find driver in /project/sandbox/user-workspace/src/Database.php:25
+Stack trace:
+#0 /project/sandbox/user-workspace/src/Database.php(35): Database->__construct()
+#1 /project/sandbox/user-workspace/src/Auth.php(7): Database::getInstance()
+#2 /project/sandbox/user-workspace/public/index.php(6): Auth->__construct()
+#3 {main}
+  thrown in /project/sandbox/user-workspace/src/Database.php on line 25
